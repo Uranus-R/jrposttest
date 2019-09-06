@@ -1,0 +1,15 @@
+.vs
+.vscode
+.idea
+/gamepaper/
+/data/
+/path/
+/requestsData/
+/temp/
+/资源/
+/count/
+/config/
+/log/
+
+*.exe
+*.json
